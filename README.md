@@ -3,6 +3,7 @@
 Here’s the goal, tools requirements and questions from stakeholders which data analyst need to answer via BI dashboard. The analyst can use python for data cleaning and EDA for make it more accessible. The deadline is in 2 weeks and need to present their report to stakeholders.
 
 ---
+**Tableau link:** https://public.tableau.com/app/profile/jenish.vekariya/viz/SSAAnalysis/Dashboard1
 
 **Goal:** To gain a deeper understanding of trends, patterns, and key factors influencing Social Security Administration (SSA) disability claim outcomes using data visualization and business intelligence techniques. This understanding can potentially inform policy discussions, resource allocation, and claimant support efforts.
 
